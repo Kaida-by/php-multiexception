@@ -1,0 +1,25 @@
+{
+  "name": "Kaida-by/php-multiexception",
+  "description": "Catch a few exceptions and show them",
+  "homepage": "https://github.com/Kaida-by/php-multiexception",
+  "keywords": [
+    "multiexception"
+  ],
+  "type": "library",
+  "require": {
+    "php": ">=7.0.0 "
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Denis Stolyarov",
+      "email": "skwidw92@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "KaidaBy\\": "src/"
+    }
+  }
+}
